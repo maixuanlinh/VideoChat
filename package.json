@@ -1,7 +1,7 @@
 {
   "name": "videochat",
   "version": "1.0.0",
-  "description": "A app that allows users to chat through Video Call, using Websocket & the WebRTC concepts",
+  "description": "An app that allows users to chat through Video Call, using Websocket & the WebRTC concepts",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
